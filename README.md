@@ -61,7 +61,7 @@ import humpi
 humpi.get_HuMPI_input_data()
 ```
 
-<b> For run HuMPI model we recomend the using of run_HuMPI.py script as follow:</b>
+<b> To run HuMPI model we recomend the using of run_HuMPI.py script as follow:</b>
  * For help
 ```
 python run_HuMPI.py -hh t
