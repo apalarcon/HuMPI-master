@@ -20,7 +20,7 @@ Pérez-Alarcón, A.; Fernández-Alvarez, J.C.; Díaz-Rodríguez, O; (2021). Hurr
 <tbody>
 <tr>
 <td>Python2</td>
-<td> no tested</td>
+<td> tested</td>
 </tr>
 <tr>
 <td>Python3</td>
