@@ -40,10 +40,30 @@ We recommend using the HuMPI package under the Anaconda environment.
 To install humpi use  
 ```
 conda install -c apa_py humpi
-...
+```
+# For HuMPI input parameters use:
+```
+import humpi
+humpi.help()
+```
+
+# To get HuMPI input parameters templete file:
+```
+import humpi
+humpi.get_HuMPI_inputs_template()
+```
+
+# To get HuMPI input data file for multiple runs:
+```
+import humpi
+humpi.get_HuMPI_input_data()
+```
+
 # Contact
 - Albenis Pérez Alarcón: apalarcon1991_gmail.com
 
 - José Carlos Fernández Alvarez: fortunajcfa_gmail.com
 
 - Oscar Díaz Rodríguez: oodr71@gmail.com
+
+
