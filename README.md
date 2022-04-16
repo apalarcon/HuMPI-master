@@ -32,3 +32,11 @@ Pérez-Alarcón, A.; Fernández-Alvarez, J.C.; Díaz-Rodríguez, O; (2021). Hurr
 *  netCDF4
 *  numpy 
 *  scipy 
+
+# Installation
+
+We recommend using the HuMPI package under the Anaconda environment.
+
+To install humpi use  
+```
+conda install -c apa_py humpi
