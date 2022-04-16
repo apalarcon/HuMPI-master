@@ -39,7 +39,7 @@ Pérez-Alarcón, A.; Fernández-Alvarez, J.C.; Díaz-Rodríguez, O; (2021). Hurr
 
 We recommend using the HuMPI package under the Anaconda environment.
 
-To install humpi use  
+[![Anaconda-Server Badge](https://anaconda.org/apa_py/humpi/badges/installer/conda.svg)](https://conda.anaconda.org/apa_py)
 ```
 conda install -c apa_py humpi
 ```
