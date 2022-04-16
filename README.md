@@ -28,3 +28,7 @@ Pérez-Alarcón, A.; Fernández-Alvarez, J.C.; Díaz-Rodríguez, O; (2021). Hurr
 </tr>
 </tbody>
 </table>
+
+*  netCDF4
+*  numpy 
+*  scipy 
