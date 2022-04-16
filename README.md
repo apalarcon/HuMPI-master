@@ -40,7 +40,7 @@ We recommend using the HuMPI package under the Anaconda environment.
 To install humpi use  
 ```
 conda install -c apa_py humpi
-
+...
 # Contact
 - Albenis Pérez Alarcón: apalarcon1991_gmail.com
 
