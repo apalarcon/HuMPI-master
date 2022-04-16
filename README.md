@@ -80,10 +80,10 @@ mpiexec -n N python run_HuMPI.py -pf input_paramters_file
 ```
   
 # Contact
-- Albenis Pérez Alarcón: apalarcon1991_gmail.com
+- Albenis Pérez Alarcón: apalarcon1991[a]gmail.com
 
-- José Carlos Fernández Alvarez: fortunajcfa_gmail.com
+- José Carlos Fernández Alvarez: fortunajcfa[a]gmail.com
 
-- Oscar Díaz Rodríguez: oodr71@gmail.com
+- Oscar Díaz Rodríguez: oodr71[a]gmail.com
 
 
