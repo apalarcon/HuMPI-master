@@ -41,24 +41,44 @@ To install humpi use
 ```
 conda install -c apa_py humpi
 ```
-# For HuMPI input parameters use:
+
+# Usage
+<b>For HuMPI input parameters use</b>:
 ```
 import humpi
 humpi.help()
 ```
 
-# To get HuMPI input parameters templete file:
+<b> To get HuMPI input parameters templete file</b>:
 ```
 import humpi
 humpi.get_HuMPI_inputs_template()
 ```
 
-# To get HuMPI input data file for multiple runs:
+<b> To get HuMPI input data file for multiple runs</b>:
 ```
 import humpi
 humpi.get_HuMPI_input_data()
 ```
 
+<b> For run HuMPI model we recomend the using of run_HuMPI.py script as follow:</b>
+ * For help
+```
+python run_HuMPI.py -hh t
+```
+ * For getting input paramters template
+```
+python run_HuMPI.py -gt t
+```
+ * For getting input data file for multiples runs
+```
+python run_HuMPI.py -id t
+```
+ * For running using MPI
+```
+mpiexec -n N python run_HuMPI.py -pf input_paramters_file
+```
+  
 # Contact
 - Albenis Pérez Alarcón: apalarcon1991_gmail.com
 
