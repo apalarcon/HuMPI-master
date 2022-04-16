@@ -1,7 +1,8 @@
 # HuMPI: Hurricane Maximum Potential Intensity model
 The python code for the Hurricane Maximum Potential Intensity model
 
-[![Anaconda-Server Badge](https://anaconda.org/apa_py/humpi/badges/version.svg)](https://anaconda.org/apa_py/humpi) [![Anaconda-Server Badge](https://anaconda.org/apa_py/humpi/badges/license.svg)](https://anaconda.org/apa_py/humpi)
+[![Anaconda-Server Badge](https://anaconda.org/apa_py/humpi/badges/version.svg)](https://anaconda.org/apa_py/humpi)
+[![Anaconda-Server Badge](https://anaconda.org/apa_py/humpi/badges/license.svg)](https://anaconda.org/apa_py/humpi)
 
 For HuMPI model descripction, see
 
