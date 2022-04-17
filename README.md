@@ -86,10 +86,10 @@ python run_HuMPI.py -id t
 mpiexec -n N python run_HuMPI.py -pf input_paramters_file
 ```
  
-#Input data
+# Input data
 Sea sruface temperature in netcdf or ascii format. In both cases the latitude and longitude arrays must be provided
 
-#HuMPI outputs
+# HuMPI outputs
 A netcdf file, which contains the maximum potential surface wind speed and minimum central pressure for tropical cyclones 
  
 # Contact
