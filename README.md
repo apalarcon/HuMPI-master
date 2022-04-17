@@ -34,6 +34,7 @@ Pérez-Alarcón, A.; Fernández-Alvarez, J.C.; Díaz-Rodríguez, O; (2021). Hurr
 *  netCDF4
 *  numpy 
 *  scipy 
+*  mpi4py
 
 # Installation
 
