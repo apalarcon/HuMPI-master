@@ -25,7 +25,7 @@ affiliations:
    index: 2 
  - name: Centro de Ciencias de la Atmósfera, Universidad Autónoma de México, Ciudad de México, México
    index: 3 
-date: 19 June 2020
+date: 17 April 2022
 bibliography: paper.bib
 ---
 # Summary
