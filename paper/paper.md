@@ -57,7 +57,7 @@ import humpi
 humpi.get_HuMPI_input_data()
 ```
 
-Additionally, you can use the basic implementation for HuMPI model, as indicated in the run_HuMPI.py script in the Github repository (https://github.com/apalarcon/HuMPI-master):
+Additionally, you can use the basic implementation to run the HuMPI model, as indicated in the run_HuMPI.py script in the Github repository (https://github.com/apalarcon/HuMPI-master):
 ```
 import humpi
 
