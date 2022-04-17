@@ -9,6 +9,8 @@ For HuMPI model physics description, see
 
 Pérez-Alarcón, A.; Fernández-Alvarez, J.C.; Díaz-Rodríguez, O; (2021). Hurricane Maximum Potential Intensity Model, Revista Cubana de Física, 38(2), 85-93, http://www.revistacubanadefisica.org/index.php/rcf/article/view/2021v38p085
 
+
+
 # HuMPI requirements
 
 
@@ -92,11 +94,28 @@ Sea sruface temperature in netcdf or ascii format. In both cases the latitude an
 # HuMPI outputs
 A netcdf file, which contains the maximum potential surface wind speed and minimum central pressure for tropical cyclones 
  
-# Contact
+# Contact and Support
 - Albenis Pérez Alarcón: apalarcon1991[a]gmail.com
 
 - José Carlos Fernández Alvarez: fortunajcfa[a]gmail.com
 
 - Oscar Díaz Rodríguez: oodr71[a]gmail.com
 
+### Referencing
+If you use HuMPI, please cite:
+Pérez-Alarcón, A.; Fernández-Alvarez, J.C.; Díaz-Rodríguez, O; (2021). Hurricane Maximum Potential Intensity Model, Revista Cubana de Física, 38(2), 85-93, http://www.revistacubanadefisica.org/index.php/rcf/article/view/2021v38p085
+
+### License
+Copyright 2022 Albenis Pérez-Alarcón, José C. Fernández-Alvarez, Oscar Díaz Rodríguez. 
+
+This software is published under the GPLv3 license. This means: 
+1. Anyone can copy, modify and distribute this software. 
+2. You have to include the license and copyright notice with each and every distribution.
+3. You can use this software privately.
+4. You can use this software for commercial purposes.
+5. If you dare build your business solely from this code, you risk open-sourcing the whole code base.
+6. If you modify it, you have to indicate changes made to the code.
+7. Any modifications of this code base MUST be distributed with the same license, GPLv3.
+8. This software is provided without warranty.
+9. The software author or license can not be held liable for any damages inflicted by the software.
 
