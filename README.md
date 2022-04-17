@@ -43,6 +43,10 @@ We recommend using the HuMPI package under the Anaconda environment.
 ```
 conda install -c apa_py humpi
 ```
+Using PIP
+```
+pip install humpi==1.0
+```
 
 # Usage
 <b>For HuMPI input parameters use</b>:
