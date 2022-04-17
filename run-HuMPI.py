@@ -1,4 +1,3 @@
-import numpy as np
 import humpi
 
 args = humpi.read_args()
