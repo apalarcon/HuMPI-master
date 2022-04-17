@@ -1,5 +1,5 @@
 ---
-title: 'The python code for the Hurricane Maximum Potential Intensity (HuMPI) model'
+title: 'humpi: The python code for the Hurricane Maximum Potential Intensity (HuMPI) model'
 tags:
   - Python
   - meteorology
