@@ -45,7 +45,7 @@ conda install -c apa_py humpi
 ```
 Using PIP
 ```
-pip install humpi==1.0
+pip install humpi
 ```
 
 # Usage
