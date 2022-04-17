@@ -37,9 +37,8 @@ The potential intensity (PI) of tropical cyclones (TCs) is the maximum surface w
 The humpi Python package implements the HuMPI model for its extensive use in scientific research to understand the changes in TC intensity due to climate change.
 
 # Python implementation
-humpi (v1.0) is written in Python v3.8 and uses the mpi4py package for parallel runs. The humpi package requires netCDF4, numpy, scipy, mpi4py, os, time and datetime packages. Similar to piPy, the run times of humpi will depend on the user's particular implementation and computing resources. Computing the maximum intensity of TCs with humpi requires the sea surface temperature as input.
+humpi (v1.0) is written in Python v3.8 and uses the mpi4py package for parallel runs. The humpi package requires netCDF4, numpy, scipy, mpi4py, os, time and datetime packages. Similar to piPy, the run times of humpi will depend on the user's particular implementation and computing resources. Computing the maximum intensity of TCs with humpi requires the sea surface temperature as input. Below we provided the basic commands for humpi usage
 
-- humpi usage
 * <b>For help</b>
 ```
 import humpi
