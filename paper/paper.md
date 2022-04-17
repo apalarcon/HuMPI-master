@@ -87,7 +87,8 @@ python run_HuMPI.py -id t
 ```
 mpiexec -n N python run_HuMPI.py -pf input_paramters_file
 ```
-
+# Example of humpi usage
+In the 'example' subdirectory in the Github repository (https://github.com/apalarcon/HuMPI-master) of humpi we provided a real case for calculating de TC maximum potential intensity using humpi.
 
 # Acknowledgements
 We acknowledge the supporting from Departamento de Meteorología, Instituto Superior de Tecnologías y Ciencias Aplicadas, Universidad de La Habana and Centro de Física de la Atmósfera del Instituto de Meteorología de Cuba.
