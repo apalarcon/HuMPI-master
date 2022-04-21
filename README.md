@@ -2,7 +2,7 @@
 The python code for the Hurricane Maximum Potential Intensity model
 
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6475229.svg)](https://doi.org/10.5281/zenodo.6475229)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6475215.svg)](https://doi.org/10.5281/zenodo.6475215)
 
 
 
