@@ -52,7 +52,7 @@ pip install humpi
 ```
 
 # Usage
-<b>For HuMPI input parameters use</b>:
+<b>For HuMPI help</b>:
 ```
 import humpi
 humpi.help()
