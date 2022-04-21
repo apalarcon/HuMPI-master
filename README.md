@@ -110,6 +110,8 @@ A netcdf file, which contains the maximum potential surface wind speed and minim
 If you use HuMPI, please cite:
 Pérez-Alarcón, A.; Fernández-Alvarez, J.C.; Díaz-Rodríguez, O; (2021). Hurricane Maximum Potential Intensity Model, Revista Cubana de Física, 38(2), 85-93, http://www.revistacubanadefisica.org/index.php/rcf/article/view/2021v38p085
 
+Pérez-Alarcón, A.; Fernández-Alvarez, J.C.; Díaz-Rodríguez, O; (2022). HuMPI: Hurricane Maximum Potential Intensity model (V1.0). Zenodo. https://doi.org/10.5281/zenodo.6475215.
+
 ### License
 Copyright 2022 Albenis Pérez-Alarcón, José C. Fernández-Alvarez, Oscar Díaz Rodríguez. 
 
